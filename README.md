@@ -10,7 +10,7 @@ Repositoorium on mõeldud toetamaks üliõpilast kursuse jooksul oma API arendam
 
 ## Teemad
 
--   [API](/teemad/api.md)
+-   [API](teemad/api.md)
 -   [NodeJS](/teemad/nodejs.md)
 -   [NPM](/teemad/npm.md)
 -   [JSON](/teemad/json.md)
