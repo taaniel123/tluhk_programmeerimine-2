@@ -1,6 +1,6 @@
 # Esimene loeng
 
--   [Sissejuhatus ainesse](/loengud/sissejuhatus.md)
+-   [Sissejuhatus ainesse](loengud/sissejuhatus.md)
 -   [Github](/teemad/github.md)
 -   [NodeJS](/teemad/nodejs.md)
 -   [NPM](/teemad/npm.md)
