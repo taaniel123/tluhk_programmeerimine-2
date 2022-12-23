@@ -11,7 +11,7 @@
 
 ---
 
-Loengus kirjutatava koodi link: https://github.com/mrttlu/programmeerimine2_2021_sygis
+Loengus kirjutatava koodi link: [Link](https://github.com/mrttlu/programmeerimine2_2021_sygis)
 
 Esimeses loengus kirjutatud kood: [Link](https://github.com/mrttlu/programmeerimine2_2021_sygis/tree/15c8045a517494ccf498be71d13545a1d8466a27)
 
