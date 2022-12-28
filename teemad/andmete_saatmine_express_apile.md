@@ -2,7 +2,7 @@
 
 Kui tahame Express API-le saata mingit infot (uue ressursi loomiseks, või päringutele lisainfo lisamiseks), saab seda teha mitut moodi:
 
--   request body-s
+-   request body-s 
 -   route parameetrina
 -   päringuparameetrina (query parameter)
 -   päringu päises
